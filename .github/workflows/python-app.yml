@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 9 * * 1-5'  # Tous les jours de la semaine à 9h00 UTC
     - cron: '30 18 * * 1-5'  # Tous les jours de la semaine à 18h30 UTC
+    - cron: '0 8 * * 1-5'
   workflow_dispatch:  # Permet de déclencher manuellement ce workflow si nécessaire
 
 jobs:
