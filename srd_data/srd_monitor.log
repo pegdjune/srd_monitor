@@ -303,3 +303,41 @@
 2025-08-24 05:30:54 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
 2025-08-24 05:30:57 - 47 actions aux extrêmes identifiées
 2025-08-24 05:30:57 - === SCRAPING TERMINÉ ===
+2025-08-24 05:57:16 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 05:57:16 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 05:57:16 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 05:57:16 - Traitement de la lettre: A
+2025-08-24 05:57:20 - Traitement de la lettre: B
+2025-08-24 05:57:23 - Traitement de la lettre: C
+2025-08-24 05:57:28 - Traitement de la lettre: D
+2025-08-24 05:57:31 - Traitement de la lettre: E
+2025-08-24 05:57:34 - Traitement de la lettre: F
+2025-08-24 05:57:36 - Traitement de la lettre: G
+2025-08-24 05:57:38 - Traitement de la lettre: H
+2025-08-24 05:57:42 - Traitement de la lettre: I
+2025-08-24 05:57:45 - Traitement de la lettre: J
+2025-08-24 05:57:48 - Traitement de la lettre: K
+2025-08-24 05:57:51 - Traitement de la lettre: L
+2025-08-24 05:57:53 - Traitement de la lettre: M
+2025-08-24 05:57:56 - Traitement de la lettre: N
+2025-08-24 05:58:00 - Traitement de la lettre: O
+2025-08-24 05:58:00 - Erreur lors de la récupération des données: HTTPSConnectionPool(host='www.boursier.com', port=443): Max retries exceeded with url: /actions/paris?letter=O (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E64E126420>: Failed to resolve 'www.boursier.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-24 05:58:00 - Arrêt: Aucune donnée récupérée le soir
+2025-08-24 06:04:03 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 06:04:03 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 06:04:03 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 06:04:03 - Traitement de la lettre: A
+2025-08-24 06:04:06 - Erreur lors de la récupération des données: 403 Client Error: Forbidden for url: https://www.boursier.com/actions/paris?letter=A
+2025-08-24 06:04:06 - Arrêt: Aucune donnée récupérée le soir
+2025-08-24 06:14:46 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 06:14:46 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 06:14:46 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 06:14:46 - Traitement de la lettre: A
+2025-08-24 06:14:51 - Erreur lors de la requête pour la lettre A: 403 Client Error: Forbidden for url: https://www.boursier.com/actions/paris?letter=A
+2025-08-24 06:14:51 - Traitement de la lettre: B
+2025-08-24 06:14:53 - Erreur lors de la requête pour la lettre B: 403 Client Error: Forbidden for url: https://www.boursier.com/actions/paris?letter=B
+2025-08-24 06:14:53 - Traitement de la lettre: C
+2025-08-24 06:14:55 - Erreur lors de la requête pour la lettre C: 403 Client Error: Forbidden for url: https://www.boursier.com/actions/paris?letter=C
+2025-08-24 06:14:55 - Traitement de la lettre: D
+2025-08-24 06:14:57 - Erreur lors de la requête pour la lettre D: 403 Client Error: Forbidden for url: https://www.boursier.com/actions/paris?letter=D
+2025-08-24 06:14:57 - Traitement de la lettre: E

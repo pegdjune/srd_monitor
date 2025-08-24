@@ -12,7 +12,7 @@ GMAIL_CONFIG = {
     'app_password': os.getenv('GMAIL_APP_PASSWORD') # 'ceiw xvra isqx qiql'  # Mot de passe d'application
 }
 
-print(GMAIL_CONFIG)
+
 # Liste des destinataires
 RECIPIENTS = ['pegdjune19@gmail.com']  # 'starkdane06@gmail.com'
 

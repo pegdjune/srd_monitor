@@ -37,7 +37,9 @@ def fetch_srd_data():
     """Extraction des données du SRD depuis Boursier.com en utilisant les filtres alphabétiques"""
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+            'Referer': 'https://www.boursier.com/',
+            'Accept-Language': 'en-US,en;q=0.9'
         }
         
         log_message("Récupération des données du SRD en utilisant les filtres alphabétiques...")
@@ -47,66 +49,75 @@ def fetch_srd_data():
 
         for letter in letters:
             log_message(f"Traitement de la lettre: {letter}")
-            response = requests.get(base_url + letter, headers=headers, timeout=30)
-            response.raise_for_status()
-            
-            soup = BeautifulSoup(response.content, 'html.parser')
-            table = soup.find('table', {'class': 'table nod table--values table--no-auto'})
-            if not table:
-                log_message(f"Tableau des actions pour la lettre {letter} non trouvé.")
-                continue
-            
-            # Parsing des lignes du tableau
-            for row in table.find_all('tr')[1:]:  # Ignorer l'en-tête
-                cols = row.find_all('td')
-                if len(cols) >= 7:  # Vérifier qu'on a assez de colonnes
-                    try:
-                        # Extraction du nom de l'action (colonne 0)
-                        nom_element = cols[0].find('a')
-                        nom = nom_element.get_text(strip=True) if nom_element else cols[0].get_text(strip=True)
-                        
-                        # Extraction des valeurs (structure exacte de votre HTML)
-                        dernier = cols[1].get_text(strip=True).replace('€', '')  # Cours
-                        variation = cols[2].get_text(strip=True)  # Variation
-                        ouv = cols[3].get_text(strip=True).replace('€', '')  # Ouverture
-                        plus_haut_an = cols[4].get_text(strip=True).replace('€', '')  # + haut
-                        plus_bas_an = cols[5].get_text(strip=True).replace('€', '')  # + bas
-                        
-                        # Nettoyage et conversion des valeurs numériques
-                        dernier_clean = dernier.replace('\xa0', '').replace(' ', '').replace(',', '.')
-                        dernier_value = float(dernier_clean) if dernier_clean and dernier_clean != '-' else 0.0
 
-                        plus_bas_clean = plus_bas_an.replace('\xa0', '').replace(' ', '').replace(',', '.')
-                        plus_bas_value = float(plus_bas_clean) if plus_bas_clean and plus_bas_clean != '-' else 0.0
-
-                        plus_haut_clean = plus_haut_an.replace('\xa0', '').replace(' ', '').replace(',', '.')
-                        plus_haut_value = float(plus_haut_clean) if plus_haut_clean and plus_haut_clean != '-' else 0.0
-
-                        # Extraction de la variation en valeur numérique
-                        variation_clean = variation.replace('\xa0', '').replace('%', '').replace('+', '').replace(',', '.').replace(' ', '')
+            try: 
+                session = requests.Session()
+                response = session.get(base_url + letter, headers=headers, timeout=30)
+                response.raise_for_status()
+                
+                soup = BeautifulSoup(response.content, 'html.parser')
+                table = soup.find('table', {'class': 'table nod table--values table--no-auto'})
+                if not table:
+                    log_message(f"Tableau des actions pour la lettre {letter} non trouvé.")
+                    continue
+                
+                # Parsing des lignes du tableau
+                for row in table.find_all('tr')[1:]:  # Ignorer l'en-tête
+                    cols = row.find_all('td')
+                    if len(cols) >= 7:  # Vérifier qu'on a assez de colonnes
                         try:
-                            variation_value = float(variation_clean) if variation_clean and variation_clean != '-' else 0.0
-                        except ValueError:
-                            variation_value = 0.0
-                        
-                        action_data = {
-                            'nom': nom,
-                            'dernier': dernier,
-                            'dernier_value': dernier_value,
-                            'variation': variation,
-                            'variation_value': variation_value,
-                            'ouverture': ouv,
-                            'plus_bas_an': plus_bas_an,
-                            'plus_bas_value': plus_bas_value,
-                            'plus_haut_an': plus_haut_an,
-                            'plus_haut_value': plus_haut_value,
-                            'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                        }
-                        all_data.append(action_data)
-                        
-                    except (ValueError, AttributeError) as e:
-                        log_message(f"Erreur parsing ligne pour la lettre {letter}: {e}")
-                        continue
+                            # Extraction du nom de l'action (colonne 0)
+                            nom_element = cols[0].find('a')
+                            nom = nom_element.get_text(strip=True) if nom_element else cols[0].get_text(strip=True)
+                            
+                            # Extraction des valeurs (structure exacte de votre HTML)
+                            dernier = cols[1].get_text(strip=True).replace('€', '')  # Cours
+                            variation = cols[2].get_text(strip=True)  # Variation
+                            ouv = cols[3].get_text(strip=True).replace('€', '')  # Ouverture
+                            plus_haut_an = cols[4].get_text(strip=True).replace('€', '')  # + haut
+                            plus_bas_an = cols[5].get_text(strip=True).replace('€', '')  # + bas
+                            
+                            # Nettoyage et conversion des valeurs numériques
+                            dernier_clean = dernier.replace('\xa0', '').replace(' ', '').replace(',', '.')
+                            dernier_value = float(dernier_clean) if dernier_clean and dernier_clean != '-' else 0.0
+
+                            plus_bas_clean = plus_bas_an.replace('\xa0', '').replace(' ', '').replace(',', '.')
+                            plus_bas_value = float(plus_bas_clean) if plus_bas_clean and plus_bas_clean != '-' else 0.0
+
+                            plus_haut_clean = plus_haut_an.replace('\xa0', '').replace(' ', '').replace(',', '.')
+                            plus_haut_value = float(plus_haut_clean) if plus_haut_clean and plus_haut_clean != '-' else 0.0
+
+                            # Extraction de la variation en valeur numérique
+                            variation_clean = variation.replace('\xa0', '').replace('%', '').replace('+', '').replace(',', '.').replace(' ', '')
+                            try:
+                                variation_value = float(variation_clean) if variation_clean and variation_clean != '-' else 0.0
+                            except ValueError:
+                                variation_value = 0.0
+                            
+                            action_data = {
+                                'nom': nom,
+                                'dernier': dernier,
+                                'dernier_value': dernier_value,
+                                'variation': variation,
+                                'variation_value': variation_value,
+                                'ouverture': ouv,
+                                'plus_bas_an': plus_bas_an,
+                                'plus_bas_value': plus_bas_value,
+                                'plus_haut_an': plus_haut_an,
+                                'plus_haut_value': plus_haut_value,
+                                'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                            }
+                            all_data.append(action_data)
+                            
+                        except (ValueError, AttributeError) as e:
+                            log_message(f"Erreur parsing ligne pour la lettre {letter}: {e}")
+                            continue
+
+            except session.exceptions.RequestException as e:
+                log_message(f"Erreur lors de la requête pour la lettre {letter}: {e}")
+                continue
+
+            time.sleep(10)  # Pause pour éviter de surcharger le serveur
         
         log_message(f"Total des actions récupérées avec succès : {len(all_data)}")
         return all_data
