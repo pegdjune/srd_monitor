@@ -1,0 +1,6 @@
+Commande : /usr/bin/python3 /home/votrelogin/www/votresite.com/srd-monitor/srd_monitor.py
+Programmation : 5 9 * * 1-5
+
+
+Commande : /usr/bin/python3 /home/votrelogin/www/votresite.com/srd-monitor/srd_monitor.py
+Programmation : 35 18 * * 1-5

@@ -1,0 +1,305 @@
+2025-08-22 17:01:05 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 17:01:05 - Arrêt: Exécution uniquement à 9h00 et 18h30
+2025-08-22 17:01:05 - === SCRAPING TERMINÉ ===
+2025-08-22 17:08:19 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 17:08:19 - === CAPTURE DES EXTRÊMES DU MATIN ===
+2025-08-22 17:08:19 - Récupération des données du SRD...
+2025-08-22 17:08:24 - 40 actions récupérées avec succès
+2025-08-22 17:08:24 - Extrêmes du matin sauvegardés: c:\Users\Admin\Documents\Personnel\srd_monitor\version_ovh\srd_data\morning_extremes_20250822.json
+2025-08-22 17:09:29 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 17:09:29 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-22 17:09:29 - Récupération des données du SRD...
+2025-08-22 17:09:38 - 40 actions récupérées avec succès
+2025-08-22 17:09:38 - Fichier CSV sauvegardé: srd_extremes_20250822.csv
+2025-08-22 17:09:41 - Erreur envoi email: (535, b'5.7.8 Authentication failed')
+2025-08-22 17:09:41 - 6 actions aux extrêmes identifiées
+2025-08-22 17:09:41 - === SCRAPING TERMINÉ ===
+2025-08-22 17:22:47 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 17:22:47 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-22 17:22:47 - Récupération des données du SRD...
+2025-08-22 17:22:57 - 40 actions récupérées avec succès
+2025-08-22 17:22:57 - Fichier CSV sauvegardé: srd_extremes_20250822.csv
+2025-08-22 17:23:01 - Erreur envoi email: (535, b'5.7.8 Authentication failed')
+2025-08-22 17:23:01 - 6 actions aux extrêmes identifiées
+2025-08-22 17:23:01 - === SCRAPING TERMINÉ ===
+2025-08-22 17:47:19 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 17:47:19 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-22 17:47:19 - Récupération des données du SRD...
+2025-08-22 17:47:24 - 40 actions récupérées avec succès
+2025-08-22 17:47:24 - Fichier CSV sauvegardé: srd_extremes_20250822.csv
+2025-08-22 17:47:27 - ❌ Erreur d'authentification SMTP: (535, b'5.7.8 Authentication failed')
+2025-08-22 17:47:27 - 6 actions aux extrêmes identifiées
+2025-08-22 17:47:27 - === SCRAPING TERMINÉ ===
+2025-08-22 18:44:54 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 18:44:54 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-22 18:44:54 - Récupération des données du SRD...
+2025-08-22 18:44:59 - 40 actions récupérées avec succès
+2025-08-22 18:44:59 - Fichier CSV sauvegardé: srd_extremes_20250822.csv
+2025-08-22 18:45:03 - ❌ Erreur d'authentification SMTP: (535, b'5.7.8 Authentication failed')
+2025-08-22 18:45:03 - 6 actions aux extrêmes identifiées
+2025-08-22 18:45:03 - === SCRAPING TERMINÉ ===
+2025-08-22 18:46:34 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-22 18:46:35 - === CAPTURE DES EXTRÊMES DU MATIN ===
+2025-08-22 18:46:35 - Récupération des données du SRD...
+2025-08-22 18:46:38 - 40 actions récupérées avec succès
+2025-08-22 18:46:38 - Extrêmes du matin sauvegardés: c:\Users\Admin\Documents\Personnel\srd_monitor\version_ovh\srd_data\morning_extremes_20250822.json
+2025-08-24 00:06:02 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:06:02 - Arrêt: Week-end - pas d'analyse nécessaire
+2025-08-24 00:07:44 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:07:44 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 00:07:44 - Fichier des extrêmes du matin non trouvé: c:\Users\Admin\Documents\Personnel\srd_monitor\version_ovh\srd_data\morning_extremes_20250824.json
+2025-08-24 00:07:44 - Erreur: Données du matin non disponibles
+2025-08-24 00:08:39 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:08:39 - === CAPTURE DES EXTRÊMES DU MATIN ===
+2025-08-24 00:08:39 - Récupération des données du SRD...
+2025-08-24 00:08:43 - 40 actions récupérées avec succès
+2025-08-24 00:08:43 - Extrêmes du matin sauvegardés: c:\Users\Admin\Documents\Personnel\srd_monitor\version_ovh\srd_data\morning_extremes_20250824.json
+2025-08-24 00:09:19 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:09:19 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 00:09:19 - Récupération des données du SRD...
+2025-08-24 00:09:22 - 40 actions récupérées avec succès
+2025-08-24 00:09:22 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 00:09:26 - ✅ Email envoyé avec succès
+2025-08-24 00:09:26 - 6 actions aux extrêmes identifiées
+2025-08-24 00:09:26 - === SCRAPING TERMINÉ ===
+2025-08-24 00:26:18 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:26:18 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 00:26:18 - Récupération des données du SRD...
+2025-08-24 00:26:24 - 40 actions récupérées avec succès
+2025-08-24 00:26:24 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 00:26:27 - ✅ Email envoyé avec succès
+2025-08-24 00:26:27 - 6 actions aux extrêmes identifiées
+2025-08-24 00:26:27 - === SCRAPING TERMINÉ ===
+2025-08-24 00:29:29 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:29:29 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 00:29:29 - Récupération des données du SRD...
+2025-08-24 00:29:35 - 40 actions récupérées avec succès
+2025-08-24 00:29:35 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 00:29:38 - ❌ Erreur d'authentification SMTP: (535, b'5.7.8 Authentication failed')
+2025-08-24 00:29:38 - 6 actions aux extrêmes identifiées
+2025-08-24 00:29:38 - === SCRAPING TERMINÉ ===
+2025-08-24 00:36:48 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:36:48 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 00:36:48 - Récupération des données du SRD...
+2025-08-24 00:36:49 - Erreur lors de la récupération des données: HTTPSConnectionPool(host='www.boursier.com', port=443): Max retries exceeded with url: /actions/paris (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246EF3E2240>: Failed to resolve 'www.boursier.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-24 00:36:49 - Arrêt: Aucune donnée récupérée le soir
+2025-08-24 00:37:23 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 00:37:23 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 00:37:23 - Récupération des données du SRD...
+2025-08-24 00:37:28 - 40 actions récupérées avec succès
+2025-08-24 00:37:28 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 00:37:31 - ✅ Email envoyé avec succès
+2025-08-24 00:37:31 - 6 actions aux extrêmes identifiées
+2025-08-24 00:37:31 - === SCRAPING TERMINÉ ===
+2025-08-24 03:33:41 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 03:33:41 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 03:33:41 - Récupération des données du SRD...
+2025-08-24 03:33:43 - 40 actions récupérées avec succès
+2025-08-24 03:33:43 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 03:33:43 - 6 actions aux extrêmes identifiées
+2025-08-24 03:33:43 - === SCRAPING TERMINÉ ===
+2025-08-24 03:36:27 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 03:36:27 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 03:36:27 - Récupération des données du SRD...
+2025-08-24 03:36:31 - 40 actions récupérées avec succès
+2025-08-24 03:36:31 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 03:36:31 - 6 actions aux extrêmes identifiées
+2025-08-24 03:36:31 - === SCRAPING TERMINÉ ===
+2025-08-24 03:37:09 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 03:37:09 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 03:37:09 - Récupération des données du SRD...
+2025-08-24 03:37:12 - 40 actions récupérées avec succès
+2025-08-24 03:37:12 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 03:37:12 - 6 actions aux extrêmes identifiées
+2025-08-24 03:37:12 - === SCRAPING TERMINÉ ===
+2025-08-24 03:38:16 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 03:38:16 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 03:38:16 - Récupération des données du SRD...
+2025-08-24 03:38:18 - 40 actions récupérées avec succès
+2025-08-24 03:38:18 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 03:38:21 - 6 actions aux extrêmes identifiées
+2025-08-24 03:38:21 - === SCRAPING TERMINÉ ===
+2025-08-24 04:27:25 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 04:27:25 - === CAPTURE DES EXTRÊMES DU MATIN ===
+2025-08-24 04:27:25 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 04:27:25 - Traitement de la lettre: A
+2025-08-24 04:27:27 - Traitement de la lettre: B
+2025-08-24 04:27:29 - Traitement de la lettre: C
+2025-08-24 04:27:30 - Erreur parsing ligne pour la lettre C: could not convert string to float: '1\xa0460.00'
+2025-08-24 04:27:30 - Traitement de la lettre: D
+2025-08-24 04:27:32 - Traitement de la lettre: E
+2025-08-24 04:27:34 - Traitement de la lettre: F
+2025-08-24 04:27:35 - Traitement de la lettre: G
+2025-08-24 04:27:36 - Traitement de la lettre: H
+2025-08-24 04:27:38 - Erreur parsing ligne pour la lettre H: could not convert string to float: '2\xa0095.00'
+2025-08-24 04:27:38 - Traitement de la lettre: I
+2025-08-24 04:27:39 - Traitement de la lettre: J
+2025-08-24 04:27:41 - Traitement de la lettre: K
+2025-08-24 04:27:42 - Traitement de la lettre: L
+2025-08-24 04:27:44 - Traitement de la lettre: M
+2025-08-24 04:27:45 - Traitement de la lettre: N
+2025-08-24 04:27:47 - Traitement de la lettre: O
+2025-08-24 04:27:48 - Traitement de la lettre: P
+2025-08-24 04:27:50 - Traitement de la lettre: Q
+2025-08-24 04:27:52 - Traitement de la lettre: R
+2025-08-24 04:27:54 - Traitement de la lettre: S
+2025-08-24 04:27:56 - Traitement de la lettre: T
+2025-08-24 04:27:58 - Traitement de la lettre: U
+2025-08-24 04:28:00 - Traitement de la lettre: V
+2025-08-24 04:28:01 - Traitement de la lettre: W
+2025-08-24 04:28:03 - Traitement de la lettre: X
+2025-08-24 04:28:04 - Traitement de la lettre: Y
+2025-08-24 04:28:05 - Tableau des actions pour la lettre Y non trouvé.
+2025-08-24 04:28:05 - Traitement de la lettre: Z
+2025-08-24 04:28:07 - Tableau des actions pour la lettre Z non trouvé.
+2025-08-24 04:28:07 - Traitement de la lettre: 1
+2025-08-24 04:28:08 - Total des actions récupérées avec succès : 191
+2025-08-24 04:28:08 - Extrêmes du matin sauvegardés: c:\Users\Admin\Documents\Personnel\srd_monitor\version_ovh\srd_data\morning_extremes_20250824.json
+2025-08-24 04:36:58 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 04:36:58 - === CAPTURE DES EXTRÊMES DU MATIN ===
+2025-08-24 04:36:58 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 04:36:58 - Traitement de la lettre: A
+2025-08-24 04:37:01 - Traitement de la lettre: B
+2025-08-24 04:37:03 - Traitement de la lettre: C
+2025-08-24 04:37:05 - Traitement de la lettre: D
+2025-08-24 04:37:07 - Traitement de la lettre: E
+2025-08-24 04:37:09 - Traitement de la lettre: F
+2025-08-24 04:37:10 - Traitement de la lettre: G
+2025-08-24 04:37:13 - Traitement de la lettre: H
+2025-08-24 04:37:14 - Traitement de la lettre: I
+2025-08-24 04:37:16 - Traitement de la lettre: J
+2025-08-24 04:37:18 - Traitement de la lettre: K
+2025-08-24 04:37:19 - Traitement de la lettre: L
+2025-08-24 04:37:21 - Traitement de la lettre: M
+2025-08-24 04:37:22 - Traitement de la lettre: N
+2025-08-24 04:37:24 - Traitement de la lettre: O
+2025-08-24 04:37:26 - Traitement de la lettre: P
+2025-08-24 04:37:27 - Traitement de la lettre: Q
+2025-08-24 04:37:28 - Traitement de la lettre: R
+2025-08-24 04:37:30 - Traitement de la lettre: S
+2025-08-24 04:37:31 - Traitement de la lettre: T
+2025-08-24 04:37:33 - Traitement de la lettre: U
+2025-08-24 04:37:34 - Traitement de la lettre: V
+2025-08-24 04:37:35 - Traitement de la lettre: W
+2025-08-24 04:37:37 - Traitement de la lettre: X
+2025-08-24 04:37:38 - Traitement de la lettre: Y
+2025-08-24 04:37:40 - Tableau des actions pour la lettre Y non trouvé.
+2025-08-24 04:37:40 - Traitement de la lettre: Z
+2025-08-24 04:37:41 - Tableau des actions pour la lettre Z non trouvé.
+2025-08-24 04:37:41 - Traitement de la lettre: 1
+2025-08-24 04:37:42 - Total des actions récupérées avec succès : 193
+2025-08-24 04:37:42 - Extrêmes du matin sauvegardés: c:\Users\Admin\Documents\Personnel\srd_monitor\version_ovh\srd_data\morning_extremes_20250824.json
+2025-08-24 04:39:04 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 04:39:04 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 04:39:04 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 04:39:04 - Traitement de la lettre: A
+2025-08-24 04:39:07 - Traitement de la lettre: B
+2025-08-24 04:39:08 - Traitement de la lettre: C
+2025-08-24 04:39:10 - Traitement de la lettre: D
+2025-08-24 04:39:12 - Traitement de la lettre: E
+2025-08-24 04:39:13 - Traitement de la lettre: F
+2025-08-24 04:39:14 - Traitement de la lettre: G
+2025-08-24 04:39:16 - Traitement de la lettre: H
+2025-08-24 04:39:17 - Traitement de la lettre: I
+2025-08-24 04:39:18 - Traitement de la lettre: J
+2025-08-24 04:39:20 - Traitement de la lettre: K
+2025-08-24 04:39:21 - Traitement de la lettre: L
+2025-08-24 04:39:23 - Traitement de la lettre: M
+2025-08-24 04:39:24 - Traitement de la lettre: N
+2025-08-24 04:39:26 - Traitement de la lettre: O
+2025-08-24 04:39:28 - Traitement de la lettre: P
+2025-08-24 04:39:29 - Traitement de la lettre: Q
+2025-08-24 04:39:31 - Traitement de la lettre: R
+2025-08-24 04:39:33 - Traitement de la lettre: S
+2025-08-24 04:39:36 - Traitement de la lettre: T
+2025-08-24 04:39:37 - Traitement de la lettre: U
+2025-08-24 04:39:39 - Traitement de la lettre: V
+2025-08-24 04:39:41 - Traitement de la lettre: W
+2025-08-24 04:39:42 - Traitement de la lettre: X
+2025-08-24 04:39:46 - Traitement de la lettre: Y
+2025-08-24 04:39:48 - Tableau des actions pour la lettre Y non trouvé.
+2025-08-24 04:39:48 - Traitement de la lettre: Z
+2025-08-24 04:39:50 - Tableau des actions pour la lettre Z non trouvé.
+2025-08-24 04:39:50 - Traitement de la lettre: 1
+2025-08-24 04:39:52 - Total des actions récupérées avec succès : 193
+2025-08-24 04:39:52 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 04:39:54 - 47 actions aux extrêmes identifiées
+2025-08-24 04:39:54 - === SCRAPING TERMINÉ ===
+2025-08-24 05:21:37 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 05:21:37 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 05:21:37 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 05:21:37 - Traitement de la lettre: A
+2025-08-24 05:21:38 - Erreur lors de la récupération des données: HTTPSConnectionPool(host='www.boursier.com', port=443): Max retries exceeded with url: /actions/paris?letter=A (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000288E9AB72C0>: Failed to resolve 'www.boursier.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-24 05:21:38 - Arrêt: Aucune donnée récupérée le soir
+2025-08-24 05:21:51 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 05:21:52 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 05:21:52 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 05:21:52 - Traitement de la lettre: A
+2025-08-24 05:21:54 - Traitement de la lettre: B
+2025-08-24 05:21:56 - Traitement de la lettre: C
+2025-08-24 05:21:59 - Traitement de la lettre: D
+2025-08-24 05:22:01 - Traitement de la lettre: E
+2025-08-24 05:22:03 - Traitement de la lettre: F
+2025-08-24 05:22:05 - Traitement de la lettre: G
+2025-08-24 05:22:07 - Traitement de la lettre: H
+2025-08-24 05:22:09 - Traitement de la lettre: I
+2025-08-24 05:22:11 - Traitement de la lettre: J
+2025-08-24 05:22:12 - Traitement de la lettre: K
+2025-08-24 05:22:14 - Traitement de la lettre: L
+2025-08-24 05:22:16 - Traitement de la lettre: M
+2025-08-24 05:22:18 - Traitement de la lettre: N
+2025-08-24 05:22:20 - Traitement de la lettre: O
+2025-08-24 05:22:21 - Traitement de la lettre: P
+2025-08-24 05:22:23 - Traitement de la lettre: Q
+2025-08-24 05:22:25 - Traitement de la lettre: R
+2025-08-24 05:22:27 - Traitement de la lettre: S
+2025-08-24 05:22:28 - Traitement de la lettre: T
+2025-08-24 05:22:30 - Traitement de la lettre: U
+2025-08-24 05:22:32 - Traitement de la lettre: V
+2025-08-24 05:22:34 - Traitement de la lettre: W
+2025-08-24 05:22:36 - Traitement de la lettre: X
+2025-08-24 05:22:37 - Traitement de la lettre: Y
+2025-08-24 05:22:39 - Tableau des actions pour la lettre Y non trouvé.
+2025-08-24 05:22:39 - Traitement de la lettre: Z
+2025-08-24 05:22:41 - Tableau des actions pour la lettre Z non trouvé.
+2025-08-24 05:22:41 - Traitement de la lettre: 1
+2025-08-24 05:22:43 - Total des actions récupérées avec succès : 193
+2025-08-24 05:22:43 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 05:22:44 - 47 actions aux extrêmes identifiées
+2025-08-24 05:22:44 - === SCRAPING TERMINÉ ===
+2025-08-24 05:30:04 - === DÉMARRAGE DU SCRAPING SRD ===
+2025-08-24 05:30:04 - === ANALYSE COMPARATIVE SOIR ===
+2025-08-24 05:30:04 - Récupération des données du SRD en utilisant les filtres alphabétiques...
+2025-08-24 05:30:04 - Traitement de la lettre: A
+2025-08-24 05:30:06 - Traitement de la lettre: B
+2025-08-24 05:30:08 - Traitement de la lettre: C
+2025-08-24 05:30:10 - Traitement de la lettre: D
+2025-08-24 05:30:12 - Traitement de la lettre: E
+2025-08-24 05:30:14 - Traitement de la lettre: F
+2025-08-24 05:30:15 - Traitement de la lettre: G
+2025-08-24 05:30:17 - Traitement de la lettre: H
+2025-08-24 05:30:19 - Traitement de la lettre: I
+2025-08-24 05:30:21 - Traitement de la lettre: J
+2025-08-24 05:30:23 - Traitement de la lettre: K
+2025-08-24 05:30:25 - Traitement de la lettre: L
+2025-08-24 05:30:27 - Traitement de la lettre: M
+2025-08-24 05:30:29 - Traitement de la lettre: N
+2025-08-24 05:30:30 - Traitement de la lettre: O
+2025-08-24 05:30:32 - Traitement de la lettre: P
+2025-08-24 05:30:34 - Traitement de la lettre: Q
+2025-08-24 05:30:36 - Traitement de la lettre: R
+2025-08-24 05:30:37 - Traitement de la lettre: S
+2025-08-24 05:30:39 - Traitement de la lettre: T
+2025-08-24 05:30:41 - Traitement de la lettre: U
+2025-08-24 05:30:43 - Traitement de la lettre: V
+2025-08-24 05:30:46 - Traitement de la lettre: W
+2025-08-24 05:30:48 - Traitement de la lettre: X
+2025-08-24 05:30:49 - Traitement de la lettre: Y
+2025-08-24 05:30:51 - Tableau des actions pour la lettre Y non trouvé.
+2025-08-24 05:30:51 - Traitement de la lettre: Z
+2025-08-24 05:30:53 - Tableau des actions pour la lettre Z non trouvé.
+2025-08-24 05:30:53 - Traitement de la lettre: 1
+2025-08-24 05:30:54 - Total des actions récupérées avec succès : 193
+2025-08-24 05:30:54 - Fichier CSV sauvegardé: srd_extremes_20250824.csv
+2025-08-24 05:30:57 - 47 actions aux extrêmes identifiées
+2025-08-24 05:30:57 - === SCRAPING TERMINÉ ===

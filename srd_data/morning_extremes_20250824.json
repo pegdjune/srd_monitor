@@ -1,0 +1,1160 @@
+{
+  "AB SCIENCE": {
+    "plus_bas_matin": 1.29,
+    "plus_haut_matin": 1.31,
+    "cours_ouverture": "1,29",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ABC ARBITRAGE": {
+    "plus_bas_matin": 6.03,
+    "plus_haut_matin": 6.09,
+    "cours_ouverture": "6,05",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ABIVAX": {
+    "plus_bas_matin": 63.9,
+    "plus_haut_matin": 67.0,
+    "cours_ouverture": "63,90",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ACCOR": {
+    "plus_bas_matin": 44.24,
+    "plus_haut_matin": 44.84,
+    "cours_ouverture": "44,28",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ADOCIA": {
+    "plus_bas_matin": 8.46,
+    "plus_haut_matin": 9.1,
+    "cours_ouverture": "8,51",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AIR FRANCE KLM": {
+    "plus_bas_matin": 14.43,
+    "plus_haut_matin": 14.98,
+    "cours_ouverture": "14,43",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AIR LIQUIDE": {
+    "plus_bas_matin": 182.48,
+    "plus_haut_matin": 184.06,
+    "cours_ouverture": "182,54",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AIRBUS GROUP": {
+    "plus_bas_matin": 179.86,
+    "plus_haut_matin": 181.67,
+    "cours_ouverture": "180,00",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ALSTOM": {
+    "plus_bas_matin": 21.38,
+    "plus_haut_matin": 21.96,
+    "cours_ouverture": "21,38",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ALTAREA": {
+    "plus_bas_matin": 107.4,
+    "plus_haut_matin": 110.2,
+    "cours_ouverture": "108,00",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ALTEN": {
+    "plus_bas_matin": 68.35,
+    "plus_haut_matin": 69.58,
+    "cours_ouverture": "68,35",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AMUNDI": {
+    "plus_bas_matin": 65.4,
+    "plus_haut_matin": 66.5,
+    "cours_ouverture": "65,40",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ANTIN INFRASTRUCTURE PARTNERS": {
+    "plus_bas_matin": 10.96,
+    "plus_haut_matin": 11.72,
+    "cours_ouverture": "10,98",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ARAMIS": {
+    "plus_bas_matin": 5.44,
+    "plus_haut_matin": 5.58,
+    "cours_ouverture": "5,52",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ARGAN": {
+    "plus_bas_matin": 67.5,
+    "plus_haut_matin": 69.0,
+    "cours_ouverture": "67,60",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ARKEMA": {
+    "plus_bas_matin": 62.8,
+    "plus_haut_matin": 64.4,
+    "cours_ouverture": "62,80",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ASSYSTEM": {
+    "plus_bas_matin": 47.9,
+    "plus_haut_matin": 48.7,
+    "cours_ouverture": "48,00",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "ATOS": {
+    "plus_bas_matin": 42.15,
+    "plus_haut_matin": 44.6,
+    "cours_ouverture": "43,80",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AUBAY": {
+    "plus_bas_matin": 47.8,
+    "plus_haut_matin": 48.25,
+    "cours_ouverture": "47,80",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AXA": {
+    "plus_bas_matin": 42.57,
+    "plus_haut_matin": 43.13,
+    "cours_ouverture": "43,04",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "AYVENS": {
+    "plus_bas_matin": 9.87,
+    "plus_haut_matin": 10.08,
+    "cours_ouverture": "9,89",
+    "timestamp": "2025-08-24 04:37:01"
+  },
+  "BASTIDE LE CONFORT MEDICAL": {
+    "plus_bas_matin": 27.7,
+    "plus_haut_matin": 28.45,
+    "cours_ouverture": "27,75",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BENETEAU": {
+    "plus_bas_matin": 8.77,
+    "plus_haut_matin": 9.03,
+    "cours_ouverture": "8,80",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BIC": {
+    "plus_bas_matin": 54.4,
+    "plus_haut_matin": 55.3,
+    "cours_ouverture": "54,40",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BIOMERIEUX": {
+    "plus_bas_matin": 126.3,
+    "plus_haut_matin": 127.7,
+    "cours_ouverture": "127,40",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BNP PARIBAS": {
+    "plus_bas_matin": 82.48,
+    "plus_haut_matin": 83.72,
+    "cours_ouverture": "82,72",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BOLLOR\u00c9": {
+    "plus_bas_matin": 5.04,
+    "plus_haut_matin": 5.12,
+    "cours_ouverture": "5,04",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BONDUELLE": {
+    "plus_bas_matin": 8.2,
+    "plus_haut_matin": 8.34,
+    "cours_ouverture": "8,26",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BOUYGUES": {
+    "plus_bas_matin": 38.57,
+    "plus_haut_matin": 38.77,
+    "cours_ouverture": "38,64",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "BUREAU VERITAS": {
+    "plus_bas_matin": 26.94,
+    "plus_haut_matin": 27.22,
+    "cours_ouverture": "26,98",
+    "timestamp": "2025-08-24 04:37:03"
+  },
+  "CAPGEMINI": {
+    "plus_bas_matin": 124.75,
+    "plus_haut_matin": 126.8,
+    "cours_ouverture": "124,80",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CARMILA": {
+    "plus_bas_matin": 17.8,
+    "plus_haut_matin": 18.04,
+    "cours_ouverture": "17,96",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CARREFOUR": {
+    "plus_bas_matin": 13.06,
+    "plus_haut_matin": 13.19,
+    "cours_ouverture": "13,19",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CASINO GUICHARD PERRACHON": {
+    "plus_bas_matin": 0.58,
+    "plus_haut_matin": 0.6,
+    "cours_ouverture": "0,58",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CELLNOVO": {
+    "plus_bas_matin": 0.0,
+    "plus_haut_matin": 0.0,
+    "cours_ouverture": "-",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CHRISTIAN DIOR SE": {
+    "plus_bas_matin": 460.6,
+    "plus_haut_matin": 476.0,
+    "cours_ouverture": "460,60",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CLARANOVA": {
+    "plus_bas_matin": 1.85,
+    "plus_haut_matin": 1.9,
+    "cours_ouverture": "1,90",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CLARIANE": {
+    "plus_bas_matin": 4.7,
+    "plus_haut_matin": 4.86,
+    "cours_ouverture": "4,75",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COFACE": {
+    "plus_bas_matin": 16.78,
+    "plus_haut_matin": 16.9,
+    "cours_ouverture": "16,90",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COMPAGNIE CHARGEURS INVEST": {
+    "plus_bas_matin": 11.16,
+    "plus_haut_matin": 11.26,
+    "cours_ouverture": "11,26",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COMPAGNIE DE L'ODET": {
+    "plus_bas_matin": 1458.0,
+    "plus_haut_matin": 1468.0,
+    "cours_ouverture": "1\u00a0458,00",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COMPAGNIE DES ALPES": {
+    "plus_bas_matin": 22.95,
+    "plus_haut_matin": 23.4,
+    "cours_ouverture": "23,00",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COTY": {
+    "plus_bas_matin": 3.29,
+    "plus_haut_matin": 3.42,
+    "cours_ouverture": "3,30",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COVIVIO": {
+    "plus_bas_matin": 58.4,
+    "plus_haut_matin": 59.4,
+    "cours_ouverture": "58,50",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "COVIVIO HOTELS": {
+    "plus_bas_matin": 23.5,
+    "plus_haut_matin": 23.6,
+    "cours_ouverture": "23,60",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "CREDIT AGRICOLE": {
+    "plus_bas_matin": 16.94,
+    "plus_haut_matin": 17.1,
+    "cours_ouverture": "16,99",
+    "timestamp": "2025-08-24 04:37:05"
+  },
+  "DANONE": {
+    "plus_bas_matin": 73.24,
+    "plus_haut_matin": 73.96,
+    "cours_ouverture": "73,88",
+    "timestamp": "2025-08-24 04:37:07"
+  },
+  "DASSAULT AVIATION": {
+    "plus_bas_matin": 273.2,
+    "plus_haut_matin": 276.4,
+    "cours_ouverture": "276,00",
+    "timestamp": "2025-08-24 04:37:07"
+  },
+  "DASSAULT SYST\u00c8MES": {
+    "plus_bas_matin": 26.85,
+    "plus_haut_matin": 27.19,
+    "cours_ouverture": "26,85",
+    "timestamp": "2025-08-24 04:37:07"
+  },
+  "DBV TECHNOLOGIES": {
+    "plus_bas_matin": 1.71,
+    "plus_haut_matin": 1.77,
+    "cours_ouverture": "1,76",
+    "timestamp": "2025-08-24 04:37:07"
+  },
+  "DEEZER": {
+    "plus_bas_matin": 1.18,
+    "plus_haut_matin": 1.21,
+    "cours_ouverture": "1,18",
+    "timestamp": "2025-08-24 04:37:07"
+  },
+  "DERICHEBOURG": {
+    "plus_bas_matin": 6.07,
+    "plus_haut_matin": 6.23,
+    "cours_ouverture": "6,08",
+    "timestamp": "2025-08-24 04:37:07"
+  },
+  "EDENRED": {
+    "plus_bas_matin": 26.15,
+    "plus_haut_matin": 26.73,
+    "cours_ouverture": "26,20",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EIFFAGE": {
+    "plus_bas_matin": 125.2,
+    "plus_haut_matin": 126.05,
+    "cours_ouverture": "125,90",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EKINOPS": {
+    "plus_bas_matin": 3.26,
+    "plus_haut_matin": 3.51,
+    "cours_ouverture": "3,28",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "ELIOR": {
+    "plus_bas_matin": 2.66,
+    "plus_haut_matin": 2.73,
+    "cours_ouverture": "2,66",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "ELIS": {
+    "plus_bas_matin": 25.24,
+    "plus_haut_matin": 25.62,
+    "cours_ouverture": "25,24",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EMEIS": {
+    "plus_bas_matin": 14.65,
+    "plus_haut_matin": 15.07,
+    "cours_ouverture": "14,80",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "ENGIE": {
+    "plus_bas_matin": 18.77,
+    "plus_haut_matin": 18.91,
+    "cours_ouverture": "18,88",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EQUASENS": {
+    "plus_bas_matin": 48.05,
+    "plus_haut_matin": 49.4,
+    "cours_ouverture": "48,10",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "ERAMET": {
+    "plus_bas_matin": 51.1,
+    "plus_haut_matin": 52.2,
+    "cours_ouverture": "51,30",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "ESSILORLUXOTTICA": {
+    "plus_bas_matin": 270.4,
+    "plus_haut_matin": 273.1,
+    "cours_ouverture": "270,40",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "ESSO": {
+    "plus_bas_matin": 97.05,
+    "plus_haut_matin": 98.8,
+    "cours_ouverture": "97,05",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EURAZEO": {
+    "plus_bas_matin": 56.05,
+    "plus_haut_matin": 57.55,
+    "cours_ouverture": "56,20",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EUROAPI": {
+    "plus_bas_matin": 3.18,
+    "plus_haut_matin": 3.36,
+    "cours_ouverture": "3,20",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EUROFINS SCIENTIFIC": {
+    "plus_bas_matin": 67.68,
+    "plus_haut_matin": 68.44,
+    "cours_ouverture": "67,68",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EURONEXT": {
+    "plus_bas_matin": 142.5,
+    "plus_haut_matin": 144.5,
+    "cours_ouverture": "143,50",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EUTELSAT": {
+    "plus_bas_matin": 3.11,
+    "plus_haut_matin": 3.26,
+    "cours_ouverture": "3,11",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EXAIL TECHNOLOGIES": {
+    "plus_bas_matin": 110.4,
+    "plus_haut_matin": 116.6,
+    "cours_ouverture": "111,00",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "EXOSENS": {
+    "plus_bas_matin": 39.2,
+    "plus_haut_matin": 40.35,
+    "cours_ouverture": "39,20",
+    "timestamp": "2025-08-24 04:37:09"
+  },
+  "FDJ UNITED": {
+    "plus_bas_matin": 28.2,
+    "plus_haut_matin": 28.58,
+    "cours_ouverture": "28,30",
+    "timestamp": "2025-08-24 04:37:10"
+  },
+  "FNAC DARTY": {
+    "plus_bas_matin": 30.3,
+    "plus_haut_matin": 31.0,
+    "cours_ouverture": "30,30",
+    "timestamp": "2025-08-24 04:37:10"
+  },
+  "FORVIA": {
+    "plus_bas_matin": 11.49,
+    "plus_haut_matin": 11.9,
+    "cours_ouverture": "11,51",
+    "timestamp": "2025-08-24 04:37:10"
+  },
+  "GE AEROSPACE": {
+    "plus_bas_matin": 0.0,
+    "plus_haut_matin": 0.0,
+    "cours_ouverture": "-",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GECINA": {
+    "plus_bas_matin": 86.2,
+    "plus_haut_matin": 87.75,
+    "cours_ouverture": "86,50",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GENFIT": {
+    "plus_bas_matin": 3.74,
+    "plus_haut_matin": 3.81,
+    "cours_ouverture": "3,75",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GENOMIC VISION": {
+    "plus_bas_matin": 0.0,
+    "plus_haut_matin": 0.0,
+    "cours_ouverture": "-",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GETLINK": {
+    "plus_bas_matin": 17.05,
+    "plus_haut_matin": 17.15,
+    "cours_ouverture": "17,11",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GL EVENTS": {
+    "plus_bas_matin": 32.75,
+    "plus_haut_matin": 33.9,
+    "cours_ouverture": "32,90",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GROUPE ADP": {
+    "plus_bas_matin": 122.3,
+    "plus_haut_matin": 123.4,
+    "cours_ouverture": "122,60",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GROUPE CRIT": {
+    "plus_bas_matin": 62.4,
+    "plus_haut_matin": 63.2,
+    "cours_ouverture": "62,80",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GROUPE SFPI": {
+    "plus_bas_matin": 2.38,
+    "plus_haut_matin": 2.39,
+    "cours_ouverture": "2,39",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GTT": {
+    "plus_bas_matin": 158.5,
+    "plus_haut_matin": 160.1,
+    "cours_ouverture": "160,10",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "GUERBET": {
+    "plus_bas_matin": 21.9,
+    "plus_haut_matin": 22.5,
+    "cours_ouverture": "21,95",
+    "timestamp": "2025-08-24 04:37:13"
+  },
+  "HERM\u00c8S INTERNATIONAL": {
+    "plus_bas_matin": 2060.0,
+    "plus_haut_matin": 2102.0,
+    "cours_ouverture": "2\u00a0060,00",
+    "timestamp": "2025-08-24 04:37:14"
+  },
+  "ICADE": {
+    "plus_bas_matin": 21.9,
+    "plus_haut_matin": 22.64,
+    "cours_ouverture": "22,10",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "ID LOGISTICS": {
+    "plus_bas_matin": 435.0,
+    "plus_haut_matin": 439.0,
+    "cours_ouverture": "439,00",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "IMERYS": {
+    "plus_bas_matin": 22.24,
+    "plus_haut_matin": 22.6,
+    "cours_ouverture": "22,24",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "INFOTEL": {
+    "plus_bas_matin": 43.2,
+    "plus_haut_matin": 44.1,
+    "cours_ouverture": "43,20",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "INNATE PHARMA": {
+    "plus_bas_matin": 1.97,
+    "plus_haut_matin": 2.03,
+    "cours_ouverture": "1,97",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "INTERPARFUMS": {
+    "plus_bas_matin": 32.56,
+    "plus_haut_matin": 32.8,
+    "cours_ouverture": "32,70",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "INVENTIVA": {
+    "plus_bas_matin": 3.77,
+    "plus_haut_matin": 3.96,
+    "cours_ouverture": "3,86",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "IPSEN": {
+    "plus_bas_matin": 116.0,
+    "plus_haut_matin": 117.6,
+    "cours_ouverture": "116,00",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "IPSOS": {
+    "plus_bas_matin": 38.16,
+    "plus_haut_matin": 39.02,
+    "cours_ouverture": "38,16",
+    "timestamp": "2025-08-24 04:37:16"
+  },
+  "JACQUET METALS": {
+    "plus_bas_matin": 20.65,
+    "plus_haut_matin": 20.85,
+    "cours_ouverture": "20,80",
+    "timestamp": "2025-08-24 04:37:18"
+  },
+  "JCDECAUX": {
+    "plus_bas_matin": 14.77,
+    "plus_haut_matin": 15.11,
+    "cours_ouverture": "14,84",
+    "timestamp": "2025-08-24 04:37:18"
+  },
+  "KAUFMAN AND BROAD": {
+    "plus_bas_matin": 30.8,
+    "plus_haut_matin": 31.35,
+    "cours_ouverture": "31,00",
+    "timestamp": "2025-08-24 04:37:19"
+  },
+  "KERING": {
+    "plus_bas_matin": 217.05,
+    "plus_haut_matin": 225.7,
+    "cours_ouverture": "217,05",
+    "timestamp": "2025-08-24 04:37:19"
+  },
+  "KLEPIERRE": {
+    "plus_bas_matin": 35.2,
+    "plus_haut_matin": 35.44,
+    "cours_ouverture": "35,34",
+    "timestamp": "2025-08-24 04:37:19"
+  },
+  "LA FRAN\u00c7AISE DE L'ENERGIE": {
+    "plus_bas_matin": 30.9,
+    "plus_haut_matin": 31.4,
+    "cours_ouverture": "31,20",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LAGARD\u00c8RE": {
+    "plus_bas_matin": 20.45,
+    "plus_haut_matin": 20.65,
+    "cours_ouverture": "20,45",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LDC": {
+    "plus_bas_matin": 91.0,
+    "plus_haut_matin": 91.9,
+    "cours_ouverture": "91,80",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LECTRA": {
+    "plus_bas_matin": 23.9,
+    "plus_haut_matin": 24.25,
+    "cours_ouverture": "23,90",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LEGRAND": {
+    "plus_bas_matin": 130.2,
+    "plus_haut_matin": 132.1,
+    "cours_ouverture": "130,25",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LISI": {
+    "plus_bas_matin": 44.65,
+    "plus_haut_matin": 45.45,
+    "cours_ouverture": "44,80",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "L'OR\u00c9AL": {
+    "plus_bas_matin": 398.2,
+    "plus_haut_matin": 402.0,
+    "cours_ouverture": "398,50",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LUMIBIRD": {
+    "plus_bas_matin": 18.1,
+    "plus_haut_matin": 18.4,
+    "cours_ouverture": "18,30",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "LVMH": {
+    "plus_bas_matin": 481.45,
+    "plus_haut_matin": 498.6,
+    "cours_ouverture": "481,75",
+    "timestamp": "2025-08-24 04:37:21"
+  },
+  "M6 METROPOLE TELEVISION": {
+    "plus_bas_matin": 13.24,
+    "plus_haut_matin": 13.5,
+    "cours_ouverture": "13,28",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MAISONS DU MONDE": {
+    "plus_bas_matin": 1.99,
+    "plus_haut_matin": 2.07,
+    "cours_ouverture": "2,07",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MANITOU": {
+    "plus_bas_matin": 20.15,
+    "plus_haut_matin": 20.5,
+    "cours_ouverture": "20,30",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MAUREL & PROM": {
+    "plus_bas_matin": 5.39,
+    "plus_haut_matin": 5.51,
+    "cours_ouverture": "5,46",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MEDINCELL": {
+    "plus_bas_matin": 17.91,
+    "plus_haut_matin": 18.4,
+    "cours_ouverture": "18,10",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MEMSCAP": {
+    "plus_bas_matin": 3.81,
+    "plus_haut_matin": 3.97,
+    "cours_ouverture": "3,97",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MERCIALYS": {
+    "plus_bas_matin": 11.36,
+    "plus_haut_matin": 11.52,
+    "cours_ouverture": "11,36",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MERSEN": {
+    "plus_bas_matin": 24.7,
+    "plus_haut_matin": 25.35,
+    "cours_ouverture": "24,75",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "MICHELIN": {
+    "plus_bas_matin": 32.36,
+    "plus_haut_matin": 32.61,
+    "cours_ouverture": "32,49",
+    "timestamp": "2025-08-24 04:37:22"
+  },
+  "NACON": {
+    "plus_bas_matin": 0.93,
+    "plus_haut_matin": 0.97,
+    "cours_ouverture": "0,95",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NANOBIOTIX": {
+    "plus_bas_matin": 8.09,
+    "plus_haut_matin": 8.89,
+    "cours_ouverture": "8,24",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NAVYA": {
+    "plus_bas_matin": 0.0,
+    "plus_haut_matin": 0.0,
+    "cours_ouverture": "-",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NEURONES": {
+    "plus_bas_matin": 42.2,
+    "plus_haut_matin": 42.7,
+    "cours_ouverture": "42,35",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NEXANS": {
+    "plus_bas_matin": 133.5,
+    "plus_haut_matin": 137.0,
+    "cours_ouverture": "134,20",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NEXITY": {
+    "plus_bas_matin": 10.79,
+    "plus_haut_matin": 11.17,
+    "cours_ouverture": "10,79",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NOKIA": {
+    "plus_bas_matin": 3.62,
+    "plus_haut_matin": 3.71,
+    "cours_ouverture": "3,62",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "NRJ GROUP": {
+    "plus_bas_matin": 7.24,
+    "plus_haut_matin": 7.3,
+    "cours_ouverture": "7,24",
+    "timestamp": "2025-08-24 04:37:24"
+  },
+  "OPMOBILITY": {
+    "plus_bas_matin": 13.79,
+    "plus_haut_matin": 14.18,
+    "cours_ouverture": "13,80",
+    "timestamp": "2025-08-24 04:37:26"
+  },
+  "ORANGE": {
+    "plus_bas_matin": 14.44,
+    "plus_haut_matin": 14.55,
+    "cours_ouverture": "14,47",
+    "timestamp": "2025-08-24 04:37:26"
+  },
+  "OSE IMMUNO": {
+    "plus_bas_matin": 6.32,
+    "plus_haut_matin": 6.5,
+    "cours_ouverture": "6,33",
+    "timestamp": "2025-08-24 04:37:26"
+  },
+  "PERNOD RICARD": {
+    "plus_bas_matin": 100.85,
+    "plus_haut_matin": 102.55,
+    "cours_ouverture": "100,90",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "PEUGEOT INVEST": {
+    "plus_bas_matin": 78.0,
+    "plus_haut_matin": 79.9,
+    "cours_ouverture": "78,00",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "PIERRE ET VACANCES CENTER PARCS": {
+    "plus_bas_matin": 1.66,
+    "plus_haut_matin": 1.69,
+    "cours_ouverture": "1,66",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "PLANISWARE": {
+    "plus_bas_matin": 17.96,
+    "plus_haut_matin": 18.24,
+    "cours_ouverture": "18,06",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "PLUXEE": {
+    "plus_bas_matin": 18.42,
+    "plus_haut_matin": 19.1,
+    "cours_ouverture": "18,42",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "POXEL": {
+    "plus_bas_matin": 0.3,
+    "plus_haut_matin": 0.33,
+    "cours_ouverture": "0,31",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "PUBLICIS": {
+    "plus_bas_matin": 79.04,
+    "plus_haut_matin": 80.92,
+    "cours_ouverture": "79,04",
+    "timestamp": "2025-08-24 04:37:27"
+  },
+  "QUADIENT": {
+    "plus_bas_matin": 16.22,
+    "plus_haut_matin": 16.78,
+    "cours_ouverture": "16,28",
+    "timestamp": "2025-08-24 04:37:28"
+  },
+  "RAMSAY G\u00c9N\u00c9RALE DE SANT\u00c9": {
+    "plus_bas_matin": 9.96,
+    "plus_haut_matin": 9.96,
+    "cours_ouverture": "9,96",
+    "timestamp": "2025-08-24 04:37:30"
+  },
+  "REMY COINTREAU": {
+    "plus_bas_matin": 55.4,
+    "plus_haut_matin": 56.4,
+    "cours_ouverture": "55,50",
+    "timestamp": "2025-08-24 04:37:30"
+  },
+  "RENAULT": {
+    "plus_bas_matin": 32.9,
+    "plus_haut_matin": 33.61,
+    "cours_ouverture": "33,00",
+    "timestamp": "2025-08-24 04:37:30"
+  },
+  "REXEL": {
+    "plus_bas_matin": 27.38,
+    "plus_haut_matin": 28.25,
+    "cours_ouverture": "27,40",
+    "timestamp": "2025-08-24 04:37:30"
+  },
+  "ROBERTET": {
+    "plus_bas_matin": 852.0,
+    "plus_haut_matin": 860.0,
+    "cours_ouverture": "852,00",
+    "timestamp": "2025-08-24 04:37:30"
+  },
+  "RUBIS": {
+    "plus_bas_matin": 28.98,
+    "plus_haut_matin": 29.2,
+    "cours_ouverture": "29,08",
+    "timestamp": "2025-08-24 04:37:30"
+  },
+  "SAFRAN": {
+    "plus_bas_matin": 290.5,
+    "plus_haut_matin": 293.0,
+    "cours_ouverture": "290,50",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SAINT-GOBAIN": {
+    "plus_bas_matin": 95.84,
+    "plus_haut_matin": 98.38,
+    "cours_ouverture": "96,18",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SANOFI": {
+    "plus_bas_matin": 87.17,
+    "plus_haut_matin": 88.44,
+    "cours_ouverture": "87,25",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SARTORIUS STEDIM BIOTECH": {
+    "plus_bas_matin": 175.5,
+    "plus_haut_matin": 179.9,
+    "cours_ouverture": "175,50",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SCHNEIDER ELECTRIC": {
+    "plus_bas_matin": 213.3,
+    "plus_haut_matin": 216.3,
+    "cours_ouverture": "213,30",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SCOR SE": {
+    "plus_bas_matin": 28.88,
+    "plus_haut_matin": 29.18,
+    "cours_ouverture": "28,98",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SEB": {
+    "plus_bas_matin": 67.3,
+    "plus_haut_matin": 68.3,
+    "cours_ouverture": "67,30",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "S\u00c9CH\u00c9 ENVIRONNEMENT": {
+    "plus_bas_matin": 102.6,
+    "plus_haut_matin": 104.2,
+    "cours_ouverture": "102,60",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SMCP": {
+    "plus_bas_matin": 6.53,
+    "plus_haut_matin": 6.77,
+    "cours_ouverture": "6,56",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SOCIETE DES BAINS DE MER ET DU CERCLE DES ETRANGERS \u00c0 MONACO": {
+    "plus_bas_matin": 105.0,
+    "plus_haut_matin": 106.0,
+    "cours_ouverture": "105,50",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SOCI\u00c9T\u00c9 FONCI\u00c8RE LYONNAISE": {
+    "plus_bas_matin": 74.0,
+    "plus_haut_matin": 74.0,
+    "cours_ouverture": "74,00",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SOCI\u00c9T\u00c9 G\u00c9N\u00c9RALE": {
+    "plus_bas_matin": 57.6,
+    "plus_haut_matin": 57.98,
+    "cours_ouverture": "57,76",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SODEXO": {
+    "plus_bas_matin": 53.05,
+    "plus_haut_matin": 54.05,
+    "cours_ouverture": "53,05",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SOITEC": {
+    "plus_bas_matin": 37.05,
+    "plus_haut_matin": 38.59,
+    "cours_ouverture": "37,10",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SOLUTIONS 30": {
+    "plus_bas_matin": 1.91,
+    "plus_haut_matin": 2.07,
+    "cours_ouverture": "1,92",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SOPRA STERIA GROUP": {
+    "plus_bas_matin": 172.5,
+    "plus_haut_matin": 175.0,
+    "cours_ouverture": "172,50",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SPIE": {
+    "plus_bas_matin": 51.9,
+    "plus_haut_matin": 52.45,
+    "cours_ouverture": "52,00",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "STEF": {
+    "plus_bas_matin": 139.0,
+    "plus_haut_matin": 140.0,
+    "cours_ouverture": "139,80",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "STELLANTIS": {
+    "plus_bas_matin": 8.28,
+    "plus_haut_matin": 8.7,
+    "cours_ouverture": "8,29",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "STMICROELECTRONICS": {
+    "plus_bas_matin": 22.21,
+    "plus_haut_matin": 23.44,
+    "cours_ouverture": "22,24",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "SWORD GROUP": {
+    "plus_bas_matin": 36.35,
+    "plus_haut_matin": 36.7,
+    "cours_ouverture": "36,70",
+    "timestamp": "2025-08-24 04:37:31"
+  },
+  "TECHNIP ENERGIES": {
+    "plus_bas_matin": 40.94,
+    "plus_haut_matin": 41.4,
+    "cours_ouverture": "41,24",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TELEPERFORMANCE": {
+    "plus_bas_matin": 72.14,
+    "plus_haut_matin": 73.76,
+    "cours_ouverture": "72,46",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TF1": {
+    "plus_bas_matin": 8.45,
+    "plus_haut_matin": 8.59,
+    "cours_ouverture": "8,46",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "THALES": {
+    "plus_bas_matin": 230.9,
+    "plus_haut_matin": 232.5,
+    "cours_ouverture": "231,20",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "THERMADOR GROUPE": {
+    "plus_bas_matin": 78.7,
+    "plus_haut_matin": 79.2,
+    "cours_ouverture": "79,20",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TIKEHAU": {
+    "plus_bas_matin": 19.88,
+    "plus_haut_matin": 20.3,
+    "cours_ouverture": "19,96",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TONNELLERIE FRANCOIS FRERES": {
+    "plus_bas_matin": 16.45,
+    "plus_haut_matin": 17.25,
+    "cours_ouverture": "16,50",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TOTALENERGIES": {
+    "plus_bas_matin": 54.49,
+    "plus_haut_matin": 54.94,
+    "cours_ouverture": "54,66",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TOTALENERGIES EP GABON": {
+    "plus_bas_matin": 184.0,
+    "plus_haut_matin": 186.5,
+    "cours_ouverture": "185,00",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "TRIGANO": {
+    "plus_bas_matin": 159.2,
+    "plus_haut_matin": 162.0,
+    "cours_ouverture": "159,20",
+    "timestamp": "2025-08-24 04:37:33"
+  },
+  "UBISOFT": {
+    "plus_bas_matin": 9.14,
+    "plus_haut_matin": 9.61,
+    "cours_ouverture": "9,14",
+    "timestamp": "2025-08-24 04:37:34"
+  },
+  "UNIBAIL-RODAMCO-WESTFIELD": {
+    "plus_bas_matin": 90.58,
+    "plus_haut_matin": 92.02,
+    "cours_ouverture": "90,82",
+    "timestamp": "2025-08-24 04:37:34"
+  },
+  "VALEO": {
+    "plus_bas_matin": 10.57,
+    "plus_haut_matin": 10.91,
+    "cours_ouverture": "10,57",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VALLOUREC": {
+    "plus_bas_matin": 15.72,
+    "plus_haut_matin": 15.89,
+    "cours_ouverture": "15,75",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VALNEVA SE": {
+    "plus_bas_matin": 4.92,
+    "plus_haut_matin": 5.23,
+    "cours_ouverture": "4,97",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VEOLIA ENVIRONNEMENT": {
+    "plus_bas_matin": 30.32,
+    "plus_haut_matin": 30.53,
+    "cours_ouverture": "30,33",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VETOQUINOL": {
+    "plus_bas_matin": 74.8,
+    "plus_haut_matin": 75.3,
+    "cours_ouverture": "75,10",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VICAT": {
+    "plus_bas_matin": 59.8,
+    "plus_haut_matin": 61.2,
+    "cours_ouverture": "59,80",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VINCI": {
+    "plus_bas_matin": 128.05,
+    "plus_haut_matin": 129.35,
+    "cours_ouverture": "128,55",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VIRBAC": {
+    "plus_bas_matin": 338.0,
+    "plus_haut_matin": 341.0,
+    "cours_ouverture": "340,00",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VIRIDIEN": {
+    "plus_bas_matin": 52.6,
+    "plus_haut_matin": 55.2,
+    "cours_ouverture": "52,60",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VIVENDI SE": {
+    "plus_bas_matin": 3.11,
+    "plus_haut_matin": 3.15,
+    "cours_ouverture": "3,11",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VOLTALIA": {
+    "plus_bas_matin": 7.3,
+    "plus_haut_matin": 7.45,
+    "cours_ouverture": "7,36",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "VUSIONGROUP": {
+    "plus_bas_matin": 209.2,
+    "plus_haut_matin": 213.0,
+    "cours_ouverture": "210,20",
+    "timestamp": "2025-08-24 04:37:35"
+  },
+  "WAGA ENERGY": {
+    "plus_bas_matin": 21.45,
+    "plus_haut_matin": 21.6,
+    "cours_ouverture": "21,55",
+    "timestamp": "2025-08-24 04:37:37"
+  },
+  "WAVESTONE": {
+    "plus_bas_matin": 53.5,
+    "plus_haut_matin": 54.7,
+    "cours_ouverture": "53,80",
+    "timestamp": "2025-08-24 04:37:37"
+  },
+  "WENDEL": {
+    "plus_bas_matin": 84.3,
+    "plus_haut_matin": 86.2,
+    "cours_ouverture": "84,30",
+    "timestamp": "2025-08-24 04:37:37"
+  },
+  "WORLDLINE": {
+    "plus_bas_matin": 2.97,
+    "plus_haut_matin": 3.32,
+    "cours_ouverture": "2,98",
+    "timestamp": "2025-08-24 04:37:37"
+  },
+  "X-FAB": {
+    "plus_bas_matin": 7.14,
+    "plus_haut_matin": 7.3,
+    "cours_ouverture": "7,14",
+    "timestamp": "2025-08-24 04:37:38"
+  },
+  "74SOFTWARE": {
+    "plus_bas_matin": 39.5,
+    "plus_haut_matin": 39.9,
+    "cours_ouverture": "39,50",
+    "timestamp": "2025-08-24 04:37:42"
+  }
+}

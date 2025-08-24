@@ -1,0 +1,14 @@
+# Protection du dossier srd-monitor
+Deny from all
+
+# Autoriser uniquement l'accès aux fichiers nécessaires
+<FilesMatch "\.(log|csv)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Interdire l'accès direct aux scripts Python
+<Files ~ "\.py$">
+    Order allow,deny
+    Deny from all
+</Files>

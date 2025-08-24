@@ -1,0 +1,242 @@
+{
+  "74SOFTWARE": {
+    "plus_bas_matin": 39.5,
+    "plus_haut_matin": 39.9,
+    "cours_ouverture": "39,50",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AB SCIENCE": {
+    "plus_bas_matin": 1.29,
+    "plus_haut_matin": 1.31,
+    "cours_ouverture": "1,29",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ABC ARBITRAGE": {
+    "plus_bas_matin": 6.03,
+    "plus_haut_matin": 6.09,
+    "cours_ouverture": "6,05",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ABIVAX": {
+    "plus_bas_matin": 63.9,
+    "plus_haut_matin": 67.0,
+    "cours_ouverture": "63,90",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ACCOR": {
+    "plus_bas_matin": 44.24,
+    "plus_haut_matin": 44.84,
+    "cours_ouverture": "44,28",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ADOCIA": {
+    "plus_bas_matin": 8.46,
+    "plus_haut_matin": 9.1,
+    "cours_ouverture": "8,51",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AIR FRANCE KLM": {
+    "plus_bas_matin": 14.43,
+    "plus_haut_matin": 14.98,
+    "cours_ouverture": "14,43",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AIR LIQUIDE": {
+    "plus_bas_matin": 182.48,
+    "plus_haut_matin": 184.06,
+    "cours_ouverture": "182,54",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AIRBUS GROUP": {
+    "plus_bas_matin": 179.86,
+    "plus_haut_matin": 181.67,
+    "cours_ouverture": "180,00",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ALSTOM": {
+    "plus_bas_matin": 21.38,
+    "plus_haut_matin": 21.96,
+    "cours_ouverture": "21,38",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ALTAREA": {
+    "plus_bas_matin": 107.4,
+    "plus_haut_matin": 110.2,
+    "cours_ouverture": "108,00",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ALTEN": {
+    "plus_bas_matin": 68.35,
+    "plus_haut_matin": 69.58,
+    "cours_ouverture": "68,35",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AMUNDI": {
+    "plus_bas_matin": 65.4,
+    "plus_haut_matin": 66.5,
+    "cours_ouverture": "65,40",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ANTIN INFRASTRUCTURE PARTNERS": {
+    "plus_bas_matin": 10.96,
+    "plus_haut_matin": 11.72,
+    "cours_ouverture": "10,98",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ARAMIS": {
+    "plus_bas_matin": 5.44,
+    "plus_haut_matin": 5.58,
+    "cours_ouverture": "5,52",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ARGAN": {
+    "plus_bas_matin": 67.5,
+    "plus_haut_matin": 69.0,
+    "cours_ouverture": "67,60",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ARKEMA": {
+    "plus_bas_matin": 62.8,
+    "plus_haut_matin": 64.4,
+    "cours_ouverture": "62,80",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ASSYSTEM": {
+    "plus_bas_matin": 47.9,
+    "plus_haut_matin": 48.7,
+    "cours_ouverture": "48,00",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "ATOS": {
+    "plus_bas_matin": 42.15,
+    "plus_haut_matin": 44.6,
+    "cours_ouverture": "43,80",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AUBAY": {
+    "plus_bas_matin": 47.8,
+    "plus_haut_matin": 48.25,
+    "cours_ouverture": "47,80",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AXA": {
+    "plus_bas_matin": 42.57,
+    "plus_haut_matin": 43.13,
+    "cours_ouverture": "43,04",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "AYVENS": {
+    "plus_bas_matin": 9.87,
+    "plus_haut_matin": 10.08,
+    "cours_ouverture": "9,89",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BASTIDE LE CONFORT MEDICAL": {
+    "plus_bas_matin": 27.7,
+    "plus_haut_matin": 28.45,
+    "cours_ouverture": "27,75",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BENETEAU": {
+    "plus_bas_matin": 8.77,
+    "plus_haut_matin": 9.03,
+    "cours_ouverture": "8,80",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BIC": {
+    "plus_bas_matin": 54.4,
+    "plus_haut_matin": 55.3,
+    "cours_ouverture": "54,40",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BIOMERIEUX": {
+    "plus_bas_matin": 126.3,
+    "plus_haut_matin": 127.7,
+    "cours_ouverture": "127,40",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BNP PARIBAS": {
+    "plus_bas_matin": 82.48,
+    "plus_haut_matin": 83.72,
+    "cours_ouverture": "82,72",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BOLLOR\u00c9": {
+    "plus_bas_matin": 5.04,
+    "plus_haut_matin": 5.12,
+    "cours_ouverture": "5,04",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BONDUELLE": {
+    "plus_bas_matin": 8.2,
+    "plus_haut_matin": 8.34,
+    "cours_ouverture": "8,26",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BOUYGUES": {
+    "plus_bas_matin": 38.57,
+    "plus_haut_matin": 38.77,
+    "cours_ouverture": "38,64",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "BUREAU VERITAS": {
+    "plus_bas_matin": 26.94,
+    "plus_haut_matin": 27.22,
+    "cours_ouverture": "26,98",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CAPGEMINI": {
+    "plus_bas_matin": 124.75,
+    "plus_haut_matin": 126.8,
+    "cours_ouverture": "124,80",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CARMILA": {
+    "plus_bas_matin": 17.8,
+    "plus_haut_matin": 18.04,
+    "cours_ouverture": "17,96",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CARREFOUR": {
+    "plus_bas_matin": 13.06,
+    "plus_haut_matin": 13.19,
+    "cours_ouverture": "13,19",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CASINO GUICHARD PERRACHON": {
+    "plus_bas_matin": 0.58,
+    "plus_haut_matin": 0.6,
+    "cours_ouverture": "0,58",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CELLNOVO": {
+    "plus_bas_matin": 0.0,
+    "plus_haut_matin": 0.0,
+    "cours_ouverture": "-",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CHRISTIAN DIOR SE": {
+    "plus_bas_matin": 460.6,
+    "plus_haut_matin": 476.0,
+    "cours_ouverture": "460,60",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CLARANOVA": {
+    "plus_bas_matin": 1.85,
+    "plus_haut_matin": 1.9,
+    "cours_ouverture": "1,90",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "CLARIANE": {
+    "plus_bas_matin": 4.7,
+    "plus_haut_matin": 4.86,
+    "cours_ouverture": "4,75",
+    "timestamp": "2025-08-22 18:46:38"
+  },
+  "COFACE": {
+    "plus_bas_matin": 16.78,
+    "plus_haut_matin": 16.9,
+    "cours_ouverture": "16,90",
+    "timestamp": "2025-08-22 18:46:38"
+  }
+}
