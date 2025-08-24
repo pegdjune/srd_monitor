@@ -11,6 +11,7 @@ from datetime import datetime, timedelta
 import time
 import requests
 from bs4 import BeautifulSoup
+from requests.exceptions import RequestException
 
 # Ajout du chemin du projet
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -37,8 +38,8 @@ def fetch_srd_data():
     """Extraction des données du SRD depuis Boursier.com en utilisant les filtres alphabétiques"""
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
-            'Referer': 'https://www.boursier.com/',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ',
+            'Referer': 'https://www.google.com/',
             'Accept-Language': 'en-US,en;q=0.9'
         }
         
@@ -113,7 +114,7 @@ def fetch_srd_data():
                             log_message(f"Erreur parsing ligne pour la lettre {letter}: {e}")
                             continue
 
-            except session.exceptions.RequestException as e:
+            except RequestException as e:
                 log_message(f"Erreur lors de la requête pour la lettre {letter}: {e}")
                 continue
 
